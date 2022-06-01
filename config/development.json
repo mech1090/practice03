@@ -1,0 +1,8 @@
+{
+    "port":3300,
+    "database":{
+        "name":"practice03",
+        "uri":"mongodb://localhost:27017"
+
+    }
+}
